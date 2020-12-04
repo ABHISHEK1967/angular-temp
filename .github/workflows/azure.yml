@@ -10,7 +10,7 @@ on:
       - master
 env:
   AZURE_WEBAPP_NAME: angular-hobby
-  AZURE_WEBAPP_PACKAGE_PATH: './dist/angular-temp'
+  AZURE_WEBAPP_PACKAGE_PATH: './dist/bmw-cli'
   NODE_VERSION: '12.x'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
